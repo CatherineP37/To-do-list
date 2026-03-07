@@ -12,3 +12,9 @@ def home(request):
             return redirect('home')        
     context = {'form':form, 'tasks':tasks}
     return render(request, 'home.html', context)
+
+def edit(request, task_id):
+    task = TaskList.objects.get(id=task_id)
+    task.done = True
+    task.save()
+    return redirect('home')
