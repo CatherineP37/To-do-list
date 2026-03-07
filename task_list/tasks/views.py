@@ -18,3 +18,8 @@ def edit(request, task_id):
     task.done = True
     task.save()
     return redirect('home')
+
+def delete(request, task_id):
+    task = TaskList.objects.get(id=task_id)
+    task.delete()
+    return redirect('home')
