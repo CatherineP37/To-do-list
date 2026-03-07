@@ -20,7 +20,6 @@ In this to-do list app users can add tasks, mark tasks as done and delete tasks.
 
 ## Film of to-do list app in use
 
-![Film](task_list/static/tasks.mp4)
 
 ## Scope
 
