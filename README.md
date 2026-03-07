@@ -59,6 +59,15 @@ For the qualitative research, I interviewed people who had experience with manag
 - The user can view their tasks
 - The user can mark tasks as done
 - The user can delete tasks from the list
+
+### Usability testing of features
+
+| FEATURE            |TEST PROCEDURE             | EXPECTED OUTCOME                        | ACTUAL OUTCOME                       | RESULT  |
+| :--------            | :----------           | :----------                               | :-----------------                |:--------|
+| Form for adding tasks   |  A task was added to the input field and the "ADD TASK" button was pressed. | Pressing the "ADD TASK" button should add a task to the database if there is content in the input field but if there's no content in the input field an error message should appear. |  Pressing the "ADD TASK" button adds a task to the database if there is content in the input field and if there's no content in the input field an error message appears. | PASS  | 
+| List of tasks  |  A task was added to the database. | When a task is added to the database it should appear in the list of tasks on the page. |  When a task is added to the database it appears in the list of tasks on the page. | PASS  | 
+| "MARK AS DONE" button |  The "MARK AS DONE" button was pressed. | When the "MARK AS DONE" button is pressed the task should get a tick beside it. |  When the "MARK AS DONE" button is pressed the task gets a tick beside it.| PASS  | 
+| "DELETE" button |  The "DELETE" button was pressed. | When the "DELETE" button is pressed the task should be deleted from the database and it should be deleted from the task list on the page. | When the "DELETE" button is pressed the task gets deleted from the database and it also gets deleted from the task list on the page. | PASS  | 
   
 ## Credits
 
