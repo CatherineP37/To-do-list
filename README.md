@@ -38,6 +38,10 @@ In this to-do list app users can add tasks, mark tasks as done and delete tasks.
 
 The purpose of the research was to understand why users use to-do list apps and what they want to achieve while using these types of app and to understand what kind of tasks users carry out on these types of apps.
 
+### Analysing other to-do list apps
+
+Other to-do list apps were analysed with usability testing. The purpose of this was to understand the users experience and pain points while using to-do list apps.
+
 ### User research methods
 
 For the qualitative research, I interviewed people who had experience with managing tasks online and for the quantitative research, I carried out a survey to find out about what users expect from a to-do list app.
