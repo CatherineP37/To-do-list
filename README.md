@@ -4,13 +4,10 @@ This is a to-do list app built with HTML, CSS, Python and Django.
 
 ![Prototype](task_list/static/group.webp)
 
-## Film of to-do list app in use
-
-
-
 ## Table of contents
 
 - [Introduction](#introduction)
+- [Film of to-do list app in use](#film-of-to-do-list-app-in-use)
 - [Scope](#scope)
 - [User stories](#user-stories)
 - [User research](#user-research)
@@ -20,6 +17,10 @@ This is a to-do list app built with HTML, CSS, Python and Django.
 ## Introduction
 
 In this to-do list app users can add tasks, mark tasks as done and delete tasks.
+
+## Film of to-do list app in use
+
+![Film](task_list/static/tasks.mp4)
 
 ## Scope
 
