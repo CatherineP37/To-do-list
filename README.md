@@ -18,8 +18,9 @@ This is a to-do list app built with HTML, CSS, Python and Django.
 
 In this to-do list app users can add tasks, mark tasks as done and delete tasks.
 
-## Film of to-do list app in use
+## Film of app in use
 
+https://github.com/user-attachments/assets/9ed64372-df8d-41e1-9e70-19cf52bd2fc4
 
 ## Scope
 
