@@ -19,6 +19,12 @@ def edit(request, task_id):
     task.save()
     return redirect('home')
 
+def not_done(request, task_id):
+    task = TaskList.objects.get(id=task_id)
+    task.done = False
+    task.save()
+    return redirect('home')
+
 def delete(request, task_id):
     task = TaskList.objects.get(id=task_id)
     task.delete()
